@@ -1,20 +1,14 @@
 ## What’s changed
 
-## 🐛 Bug fixes
-
-- Switch to custom NodeJS base image @frenck ([#630](https://github.com/hassio-addons/addon-zwave-js-ui/pull/630))
-
-## 🧰 Maintenance
-
-- Migrate yarn to npm @frenck ([#621](https://github.com/hassio-addons/addon-zwave-js-ui/pull/621))
-- 🎆 Updates maintenance/license year to 2024 @frenck ([#631](https://github.com/hassio-addons/addon-zwave-js-ui/pull/631))
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.2 @renovate ([#613](https://github.com/hassio-addons/addon-zwave-js-ui/pull/613))
-- ⬆️ Update zwave-js/zwave-js-ui to v9.4.1 @renovate ([#615](https://github.com/hassio-addons/addon-zwave-js-ui/pull/615))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v14.3.3 @renovate ([#618](https://github.com/hassio-addons/addon-zwave-js-ui/pull/618))
-- ⬆️ Update zwave-js/zwave-js-ui to v9.5.1 @renovate ([#617](https://github.com/hassio-addons/addon-zwave-js-ui/pull/617))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15 @renovate ([#619](https://github.com/hassio-addons/addon-zwave-js-ui/pull/619))
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v15.0.3 @renovate ([#623](https://github.com/hassio-addons/addon-zwave-js-ui/pull/623))
-- ⬆️ Update zwave-js/zwave-js-ui to v9.6.2 @renovate ([#622](https://github.com/hassio-addons/addon-zwave-js-ui/pull/622))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.0 @renovate ([#724](https://github.com/hassio-addons/addon-zwave-js-ui/pull/724))
+- Migrate renovate config @renovate ([#725](https://github.com/hassio-addons/addon-zwave-js-ui/pull/725))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.1 @renovate ([#726](https://github.com/hassio-addons/addon-zwave-js-ui/pull/726))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.3 @renovate ([#727](https://github.com/hassio-addons/addon-zwave-js-ui/pull/727))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.4 @renovate ([#728](https://github.com/hassio-addons/addon-zwave-js-ui/pull/728))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.5 @renovate ([#729](https://github.com/hassio-addons/addon-zwave-js-ui/pull/729))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.6 @renovate ([#730](https://github.com/hassio-addons/addon-zwave-js-ui/pull/730))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.7 @renovate ([#731](https://github.com/hassio-addons/addon-zwave-js-ui/pull/731))
+- ⬆️ Update zwave-js/zwave-js-ui to v9.27.8 @renovate ([#733](https://github.com/hassio-addons/addon-zwave-js-ui/pull/733))
+- ⬆️ Update alpine_3_19/python3-dev to v3.11.11-r0 @renovate ([#734](https://github.com/hassio-addons/addon-zwave-js-ui/pull/734))

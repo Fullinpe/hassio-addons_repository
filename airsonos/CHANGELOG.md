@@ -1,12 +1,10 @@
 ## What’s changed
 
-## 🧰 Maintenance
-
-- 🎆 Updates maintenance/license year to 2024 @frenck ([#155](https://github.com/hassio-addons/addon-airsonos/pull/155))
-- 🤖 Fetch AirConnect on build time, let Renovate handle upgrades @frenck ([#156](https://github.com/hassio-addons/addon-airsonos/pull/156))
-
 ## ⬆️ Dependency updates
 
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.0 @renovate ([#153](https://github.com/hassio-addons/addon-airsonos/pull/153))
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.3.1 @renovate ([#154](https://github.com/hassio-addons/addon-airsonos/pull/154))
-- ⬆️ Update philippe44/AirConnect to v1.6.2 @renovate ([#157](https://github.com/hassio-addons/addon-airsonos/pull/157))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.1 @renovate ([#169](https://github.com/hassio-addons/addon-airsonos/pull/169))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.5.2 @renovate ([#171](https://github.com/hassio-addons/addon-airsonos/pull/171))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.0 @renovate ([#172](https://github.com/hassio-addons/addon-airsonos/pull/172))
+- Migrate renovate config @renovate ([#173](https://github.com/hassio-addons/addon-airsonos/pull/173))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.1 @renovate ([#174](https://github.com/hassio-addons/addon-airsonos/pull/174))
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.2 @renovate ([#175](https://github.com/hassio-addons/addon-airsonos/pull/175))
